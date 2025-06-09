@@ -33,3 +33,10 @@ Install the dependencies:
 ```bash
 pip install pyvi stop-words nltk
 
+### Steps
+- Clone or download this repository
+- Run the program:
++ Select a text file.
++ Specify the maximum line length.
++ Process the file to view the formatted text and keyword table.
+Output Files: The reformatted text file and a hash table listing all the keywords and their line numbers.
